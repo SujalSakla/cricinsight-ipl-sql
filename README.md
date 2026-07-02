@@ -1,5 +1,4 @@
-#🏏 CricInsight — IPL Analytics Engine
-
+# 🏏 CricInsight — IPL Analytics Engine
 > Turning 330,000+ balls of IPL data into real cricket intelligence using MySQL.
 
 ---
