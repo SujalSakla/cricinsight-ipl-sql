@@ -37,7 +37,7 @@ no shortcuts, no drag-and-drop tools — just SQL and curiosity.
 
 ## 📊 Dataset
 
-- **Source:** [IPL Complete Dataset 2008-2020 — Kaggle](https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020)
+- **Source:** [IPL Complete Dataset 2008-2024 — Kaggle](https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020)
 - **Tables:** `matches` (1,076 rows) and `deliveries` (330,642 rows)
 - **Coverage:** 13 IPL seasons, 19+ teams, 500+ players
 
